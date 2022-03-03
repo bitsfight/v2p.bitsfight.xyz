@@ -1,6 +1,6 @@
 # Grab Frame
 
-This document provides explains for getting started with the [Grab Frame](https://v2p.bitsfight.xyz) app.
+This document provides explains for getting started with the [Grab Frame](itms-apps://itunes.apple.com/app/id1612042249?mt=8) app.
 
 We will keep this documentation updated to accommodate changes to the app, please stay tuned for our [Release Notes](rn.md).
 

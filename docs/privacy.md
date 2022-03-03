@@ -1,6 +1,7 @@
 # Privacy Policy
 
-We don't collect your personal information, we don't upload your photos, and we don't even have a server.
+We don't collect any of your personal information, we don't upload your photos or videos, and we don't even have a server.
+So your data remain private and completely isolated from us.
 
 ## Contact Us
 
